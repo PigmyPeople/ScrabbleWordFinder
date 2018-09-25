@@ -1,0 +1,7 @@
+1 - a e i o u l n s t r
+2 - d g
+3 - b c m p
+4 - f h v w y
+5 - k
+8 - j x
+10 - q z
